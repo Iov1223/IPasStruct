@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Program</name>
+    </assembly>
+    <members>
+        <member name="T:IPasStruct.ipADDR">
+            <summary>
+            Класс работающий с массивом инициализированным как IP
+            </summary>
+        </member>
+        <member name="F:IPasStruct.ipADDR.ip">
+            <summary>
+            ОбЪявление массива
+            </summary>
+        </member>
+        <member name="M:IPasStruct.ipADDR.#ctor">
+            <summary>
+            Метод инициализирующий массив
+            </summary>
+        </member>
+        <member name="M:IPasStruct.ipADDR.Change">
+            <summary>
+            Метод запрашивающий данные для ввода и изменяет изначальный массив
+            </summary>
+        </member>
+        <member name="M:IPasStruct.ipADDR.Print">
+            <summary>
+            Метод выводящий значения элементов массива на экран
+            </summary>
+        </member>
+        <member name="T:IPasStruct.ipMASK">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
